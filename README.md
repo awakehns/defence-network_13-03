@@ -15,7 +15,7 @@ Kali уже установлена в virtualbox
 Установлены Suricata и Fail2Ban:
 ![install-suricata-fail2ban](/img/install-suricata-fail2ban)
 
-### Заданине 1
+### Задание 1
 
 Разведка системы через nmap с Kali:
 
@@ -32,7 +32,7 @@ sudo nmap -sV 192.168.1.13
 Запуск команд nmap с Kali:
 ![nmap](/img/nmap.png)
 
-### Заданине 2
+### Задание 2
 
 Включение ssh защиты в fail2ban:
 
